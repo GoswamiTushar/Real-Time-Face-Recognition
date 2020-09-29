@@ -22,7 +22,7 @@ face_cascade = cv.CascadeClassifier("haarcascade_frontalface_alt.xml")
 
 skip_counter = 0 # To capture every tenth face
 
-file_name = input("Enter the your name")
+file_name = input("Enter the your name ")
 
 while True:
 
